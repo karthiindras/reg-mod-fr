@@ -1,0 +1,83 @@
+img {
+      width: 150px;
+    margin-left: 180px;
+    /* background-color: red; */
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.field-icon {
+  float: right;
+  margin-left: -25px;
+  margin-top: -25px;
+  position: relative;
+  z-index: 2;
+}
+.main2 {
+  margin: auto;
+  width: 80%;
+  height: 100%;
+  padding: 10px;
+      height: 450px;
+    margin-top: 120px;
+    width: 580px;
+        position: fixed;
+    margin-left: 300px;
+    background-color:  #32425c;
+  /* background-image: url('../assets/images/81.jpg'); */
+
+    
+}
+.main2 h3 {
+        margin-left: 200px;
+    margin-top: 55px;
+    font-size: 25px;
+    color: white;
+}
+.main2 input {
+        width: 350px;
+    margin-left: 100px;
+    background-color: #626a72;
+    color:white;
+    
+}
+::placeholder {
+  color:white
+}
+.main2 button {
+   margin-left: 100px;
+    width: 350px;
+        background-color: #59d6b9;
+    color: white;
+    font-size:15px;
+     margin-left: 100px;
+    height: 35px;
+    font-size: 18px;
+    height: 35px;
+    border:none;
+    margin-bottom: 30px;
+
+}
+.main2 a{
+      color: white;
+    font-size: 20px;
+    margin-left: 70px;
+    border-style: none;
+}
+.main2 small{
+  color:black;
+}
+.color {
+  color: red
+}
+#checkbox {
+color: white;
+    margin-top: 6px;
+  margin-left: -55px;
+}
+h4{
+    color: white;
+    font-size: 18px;
+}
+.main2 h3 {
+  color:#318d8e;
+}
